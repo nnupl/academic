@@ -20,7 +20,7 @@
     "jquery-form": "^4.2.2",
     "js-base64": "^2.5.1",
     "less": "^3.10.3",
-    "less-loader": "^5.0.0",
+    "less-loader": "^6.0.0",
     "raw-loader": "^4.0.1",
     "v-contextmenu": "^2.8.0",
     "vue": "^2.5.2",
